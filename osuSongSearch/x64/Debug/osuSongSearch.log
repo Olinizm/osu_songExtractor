@@ -1,5 +1,0 @@
-﻿  main.cpp
-D:\programy\.C++\osuSongSearch\osuSongSearch\main.cpp(14,5): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-D:\programy\.C++\osuSongSearch\osuSongSearch\main.cpp(17,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\programy\.C++\osuSongSearch\osuSongSearch\main.cpp(18,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  osuSongSearch.vcxproj -> D:\programy\.C++\osuSongSearch\x64\Debug\osuSongSearch.exe
